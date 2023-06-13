@@ -304,6 +304,7 @@ nav.scroll_color ul li a {
     border-radius: 50%;
     cursor: pointer;
     margin: 2px;
+    border: 2px solid orange;
 
 }
 
@@ -315,6 +316,7 @@ nav.scroll_color ul li a {
     border-radius: 50%;
     cursor: pointer;
     margin: 2px;
+    border: 2px solid orange;
 }
 
 .dot2 {
@@ -325,6 +327,7 @@ nav.scroll_color ul li a {
     border-radius: 50%;
     cursor: pointer;
     margin: 2px;
+    border: 2px solid orange;
 }
 
 .slash {
